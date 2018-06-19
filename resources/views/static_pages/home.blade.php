@@ -2,7 +2,7 @@
 
 @section('content')
   <div class="jumbotron">
-    <h1>Hello 烧主机</h1>
+    <h1>Hello 邵🐷🐔</h1>
     <p class="lead">
       你现在所看到的是 <a href="https://laravel-china.org/courses/laravel-essential-training-5.1">Laravel 入门教程</a> 的示例项目主页。
     </p>
